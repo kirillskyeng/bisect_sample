@@ -1,6 +1,7 @@
 def hello():
     """"Pring Hello World message."""
-    print('Hello World')
+    msg = 'Hello World'
+    print(mgs)
     
 
 if __name__ == '__main__':
