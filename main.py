@@ -2,5 +2,6 @@ def hello():
     """"Pring Hello World message."""
     print('Hello World')
     
-    
-hello()
+
+if __name__ == '__main__':
+    hello()
